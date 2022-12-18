@@ -6,4 +6,5 @@
 - ⚡ Fun fact: Light is Fast!
 
 ![Riderman's github stats](https://github-readme-stats.vercel.app/api?username=ersauravadhikari&show_icons=true&hide_border=true)
-![img_stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ersauravadhikari&langs_count=8)
+
+![img_stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ersauravadhikari&layout=compact&langs_count=8)
