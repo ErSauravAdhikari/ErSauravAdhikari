@@ -12,6 +12,11 @@
 - **Cover Letter AI**: AI tool that uses your past experiences to write stunning cover letters. [Learn More](https://www.youtube.com/watch?v=yMKW-jaMClg)
 - **OrgBea**: A cup of tea for your organization [Learn More](https://www.asaurav.com.np/2023/04/30/introducing-orgbea/) 
 
+## Past Works
+- Maintainace Engineer at ArmanCards [Link](https://armancards.com/)
+- Freelance Developer for FootballNotice [Link](https://footballnotice.com/)
+- Backend Developer for Arman Games
+
 ## Stats
 ![Riderman's github stats](https://github-readme-stats.vercel.app/api?username=ersauravadhikari&show_icons=true&hide_border=true)
 
