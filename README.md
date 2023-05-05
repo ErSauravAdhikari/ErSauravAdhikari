@@ -25,7 +25,14 @@ I'm a Computer Engineering student at the Institute of Engineering, Pulchowk Cam
 - Head of Brand and Marketing at IT Club, Pulchowk Campus.
 - Technical Coordinator at SODEN, Pulchowk.
 
+## Latest Competitions and Hackathons
+- Winner of Leapfrog's revampthon 2022
+- Runner up at UX Cam, Code Jam 2022
+- Second runner up at Yamari Coding Competition 2022
+- Runner up at QuantaHack hackathon 2020
+
 Feel free to connect with me and let's collaborate on something amazing!
+
 ## Stats
 ![Riderman's github stats](https://github-readme-stats.vercel.app/api?username=ersauravadhikari&show_icons=true&hide_border=true)
 
