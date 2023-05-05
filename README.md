@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Saurav Adhikar. A student of Computer Engineering from IOE, Pulchowk Campus, TU.
 
 - 📫 How to reach me: github_contact@asaurav.com.np
-- ⚡ Fun fact: Light is Fast!
+- ⚡ Quote: Behold the swiftness of light, but know that darkness moves even faster. 
 
 ## Some Side Projects
 - Unimy: A power up for educational institutions (100+ DAU) [Learn More](https://www.asaurav.com.np/2023/04/30/introducing-unimy/) 
