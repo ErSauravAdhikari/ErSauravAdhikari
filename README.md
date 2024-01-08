@@ -15,16 +15,6 @@ I'm a professional Software Developer. I'm passionate about using technology to 
 - **Cover Letter AI**: An AI tool that uses your past experiences to write stunning cover letters. [Learn more](https://www.youtube.com/watch?v=yMKW-jaMClg)
 - **OrgBea**: A cup of tea for your organization. [Learn more](https://www.asaurav.com.np/2023/04/30/introducing-orgbea/)
 
-### 👨‍💻 Work Experience
-- Maintenance Engineer at ArmanCards [Link](https://armancards.com/)
-- Freelance Developer for FootballNotice [Link](https://footballnotice.com/)
-- Backend Developer for Arman Games
-
-### 🌟 Volunteer Experience
-- Marketing Director at HULT@IOE, the largest student entrepreneurship competition in Nepal.
-- Head of Brand and Marketing at IT Club, Pulchowk Campus.
-- Technical Coordinator at SODEN, Pulchowk.
-
 ## Latest Competitions and Hackathons
 - Winner of Leapfrog's revampthon 2022
 - Runner up at UX Cam, Code Jam 2022
