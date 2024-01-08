@@ -1,6 +1,6 @@
 ## Hi there, I'm Saurav Adhikar! 👋
 
-I'm a Computer Engineering student at the Institute of Engineering, Pulchowk Campus, TU. I'm passionate about using technology to make a positive impact in the world.
+I'm a professional Software Developer. I'm passionate about using technology to make a positive impact in the world.
 
 ### 🚀 Quick Facts
 - 📫 How to reach me: github_contact@asaurav.com.np
